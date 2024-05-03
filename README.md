@@ -22,3 +22,9 @@
 http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_01
 
 
+## Mais Datasets
+
+https://www.kaggle.com/datasets/dev7halo/wine-information
+
+https://www.kaggle.com/datasets/budnyak/wine-rating-and-price
+
