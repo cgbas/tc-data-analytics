@@ -5,17 +5,17 @@
 
 ## Fatores que interferem na analise
 
-Dados demograficos
-Dados Climaticos
-Dados Economicos
-Dados de avaliaçoes de vinhos
+* Dados demograficos
+* Dados Climaticos
+* Dados Economicos
+* Dados de avaliaçoes de vinhos
 
 ## Tabela a construir
 
-Pais de Origem (Brasil)
-Pais de Destino
-Quantidade em litros de vinho exportado (1kg = 1L)
-Valor em U$$
+* Pais de Origem (Brasil)
+* Pais de Destino
+* Quantidade em litros de vinho exportado (1kg = 1L)
+* Valor em U$$
 
 ![Objetivo](imagens/objetivo-2.png "Objetivo")
 
