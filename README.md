@@ -1,30 +1,15 @@
 
-# Problema 
+# Repositório do tech-challenge #1
 
-![Problema](imagens/problema-1.png "Problema")
+## Integrantes do grupo 68
 
-## Fatores que interferem na analise
+https://github.com/GustavoHenriqueDeCarvalho
+https://github.com/Junior3021
+https://github.com/kaique-reis
+https://github.com/cgbas
 
-* Dados demograficos
-* Dados Climaticos
-* Dados Economicos
-* Dados de avaliaçoes de vinhos
+## Descrição
 
-## Tabela a construir
+Nesse repositório temos os arquivos do dataset original, os outputs gerados via python para serem analisados via Power BI. Tanto o código python como o ambiente Power BI estão compartilhados aqui também.
 
-* Pais de Origem (Brasil)
-* Pais de Destino
-* Quantidade em litros de vinho exportado (1kg = 1L)
-* Valor em U$$
-
-![Objetivo](imagens/objetivo-2.png "Objetivo")
-
-http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_01
-
-
-## Mais Datasets
-
-https://www.kaggle.com/datasets/dev7halo/wine-information
-
-https://www.kaggle.com/datasets/budnyak/wine-rating-and-price
 
